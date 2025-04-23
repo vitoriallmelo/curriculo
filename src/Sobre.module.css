@@ -1,0 +1,39 @@
+@media (max-width: 768px) {
+    .container {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+}
+.container{ 
+    flex: 1 1 55%;
+    max-width: 60%;
+    min-width: 300px;
+    padding-right: 20px;
+}
+.titulo{
+    color: #1C8076;
+    border: 2px solid #4B2C5E;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #F5F5F7;
+
+    border-radius: 6px;
+    font-size: 1.25rem;
+    height: 1.8rem;
+}
+.textosCentralizados{
+    justify-content: center;
+    align-items: center;
+    display: flex;  
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.textosJustificados{
+    text-align: justify;  
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}

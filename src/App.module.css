@@ -1,3 +1,12 @@
 body{
     color: #2E2E2E;
+    font-family: 'Lato', sans-serif;;
+}
+.apresentacao{
+    display: flex;      
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 100%;
+
+    list-style-type: none;
 }

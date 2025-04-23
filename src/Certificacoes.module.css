@@ -1,0 +1,33 @@
+@media (max-width: 768px) {
+    .certificacoes {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+}
+.certificacoes{
+    background-color:#A7D3DC;
+    padding-left: 20px;
+    padding-right: 20px;
+    flex: 1 1 35%;
+    max-width: 40%;
+    min-width: 300px;
+}
+
+.titulo{
+    color: #1C8076;
+    border: 2px solid #4B2C5E;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 1.25rem;
+    height: 1.9rem;
+
+    background-color: #F5F5F7;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 6px;
+}
+.tituloTopico{
+    text-align: center;
+}
