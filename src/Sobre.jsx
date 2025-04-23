@@ -18,6 +18,18 @@ function Sobre (){
         
             <h2 className={styles.titulo}>Habilidades</h2>
             <p className={styles.textosJustificados}>HTML | CSS | JavaScript | Node.js | Java | JSON | Git | GitHub | React | C | React | Lógica de programação | Banco de Dados | Inglês intermediário | Comunicação | Habilidades analíticas | Trabalho em equipe | Metodologias ágeis | Kanban | Programação Orientada a Objetos</p>
+           
+            <h2 className={styles.titulo}>Projetos</h2>
+            <h3 className={styles.textosCentralizados}>To-do List</h3>
+            <p className={styles.textosCentralizados}>Tecnologias utilizadas: React.JS e Vite</p>
+            <img className={styles.projetos} src='public/to-doList.png'/>
+            
+            <h3 className={styles.textosCentralizados}>Site Cores</h3>
+            <p className={styles.textosCentralizados}>Primeiro projeto</p>
+            <p className={styles.textosCentralizados}>Tecnologias utilizadas: React.JS e Vite</p>
+            <img className={styles.projetos} src='public/cores1.png'/>
+            <img className={styles.projetos} src='public/cores2.png'/>
+            <img className={styles.projetos} src='public/cores3.png'/>
         </div>
     )
 }
