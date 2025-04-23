@@ -5,8 +5,8 @@
     }
 }
 .container{ 
-    flex: 1 1 55%;
-    max-width: 60%;
+    flex: 1 1 45%;
+    max-width: 50%;
     min-width: 300px;
     padding-right: 20px;
 }
