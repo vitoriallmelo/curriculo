@@ -15,6 +15,7 @@
 .titulo{
     color: #1C8076;
     border: 2px solid #4B2C5E;
+    margin-top: 16px;
 
     justify-content: center;
     align-items: center;

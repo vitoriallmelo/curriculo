@@ -17,7 +17,7 @@ function Sobre (){
             <p className={styles.textosJustificados}>Em suma, sou uma pessoa focada nos estudos e resultados, de fácil convivência, gosto de aprender coisas novas e busco me aprimorar enquanto profissional. Viso o estágio para evoluir na área e proporcionar bons frutos à minha equipe. </p>
         
             <h2 className={styles.titulo}>Habilidades</h2>
-            <p className={styles.textosJustificados}>HTML | CSS | JavaScript | Node.js | Java | JSON | Git | GitHub | React | C | React | Lógica de programação | Banco de Dados | Inglês intermediário | Comunicação | Habilidades analíticas | Trabalho em equipe | Metodologias ágeis | Kanban | Programação Orientada a Objetos</p>
+            <p className={styles.textosJustificados}>HTML | CSS | JavaScript | Node.js | Java | JSON | Git | GitHub | React | C | Lógica de programação | Banco de Dados | Inglês intermediário | Comunicação | Habilidades analíticas | Trabalho em equipe | Metodologias ágeis | Kanban | Programação Orientada a Objetos</p>
            
             <h2 className={styles.titulo}>Projetos</h2>
             <h3 className={styles.textosCentralizados}>To-do List</h3>
